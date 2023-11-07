@@ -983,7 +983,17 @@
   Services:
   - CE
 # ---------------------------------------------------------
-
+- Class: SCHEDULED
+  ID: 1643914122
+  Description: Migration to Alma9
+  Severity: Outage
+  StartTime: Nov 13, 2023 12:00 +0000
+  EndTime: Nov 15, 2023 21:00 +0000
+  CreatedTime: Nov 07, 2023 21:10 +0000
+  ResourceName: USCMS-FNAL-WC1-CE4
+  Services:
+  - CE
+# ---------------------------------------------------------
 
 
 
